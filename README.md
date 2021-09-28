@@ -1,6 +1,6 @@
 # Pose_Based_Multi_View_Invariant_Feature
 
-Currently, The code are uploded to construct the 5 poses for different view of gait images then to get pose feature with high density and low noisy we will get 3 poses for each sequence.
+Currently, The code are uploded to construct the 5 poses for different view of gait images then to get pose feature with high density and low noisy we will get 3 poses for each sequence. The sample data given here that is made one for one angle for other angle we need to edit the code or structure the directories as given in sample data otherwise these code will not work.
 
 First, we need to make the pose directories to train the CNN model so that the model can detect different pose accuratly as much as possible. Run the python file named with: Pose_Directory_Construction.py
 
