@@ -1,4 +1,4 @@
-# -Pose_Based_Multi_View_Invariant_Feature
+# Pose_Based_Multi_View_Invariant_Feature
 
 Currently, The code are uploded to construct the 5 poses for different view of gait images then to get pose feature with high density and low noisy we will get 3 poses for each sequence.
 
