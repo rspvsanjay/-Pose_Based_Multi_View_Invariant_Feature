@@ -12,6 +12,6 @@ Then we can use saved CNN model to make the pose based energy image using the fo
 
 To get final pose feature run the MATLAB code named as: add_poses_in_one.m
 
-And we can get anothor feature after running the MATLAB code: PEI_Construction_After_1_skip.m
+And we can get anothor feature after running the MATLAB code: PEI_Construction_After_1_skip.m, The feature after running this file can not be said as pose based feature because the feature not satisfiying the pose based energy image definition.
 
 
